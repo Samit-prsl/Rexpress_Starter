@@ -26,5 +26,6 @@ const installDeps = runCommand(installdepsCommand);
 if(!Checkout) process.exit(-1)
 
 console.log(`Congratulations! You are ready,follow the commands `)
-console.log(` npm run client-starter`);
+console.log(`cd ${repoName}`);
+console.log(`npm run client-starter`);
 console.log(`npm run dev to start`);
