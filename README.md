@@ -30,7 +30,7 @@ Run
 Run
 <div class="code-block">
   <pre><code id="my-code">
-   npm run client-starter
+   npm run client-install
   </code></pre>
 </div>
 To install all the frontend stuffs
