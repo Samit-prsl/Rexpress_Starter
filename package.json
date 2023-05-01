@@ -1,5 +1,5 @@
 {
-  "name": "rexpress",
+  "name": "@samit-prsl/rexpress",
   "version": "1.0.0",
   "description": "Boiler plate for React and Express together along with pre-installed dependencies",
   "bin": "./bin/cli.js",
