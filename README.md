@@ -15,7 +15,7 @@ not only Rexpress has built-in React and Express libraries it is empowered with 
 Run
 <div class="code-block">
   <pre><code id="my-code">
-  npx @samit-prsl/rexpress@1.0.0 Your_appname
+  npx @samit-prsl/rexpress@latest Your_appname
   </code></pre>
 </div>
 To successfully setup the starter pack into your local machine.
