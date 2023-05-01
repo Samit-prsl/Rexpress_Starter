@@ -1,9 +1,14 @@
 {
   "name": "@samit-prsl/rexpress",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Boiler plate for React and Express together along with pre-installed dependencies",
   "bin": "./bin/cli.js",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samit-prsl/Rexpress_Starter"
+  },
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "client-install": "cd client && npm install",
